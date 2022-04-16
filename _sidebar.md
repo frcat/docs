@@ -1,4 +1,4 @@
-* [Main Website](https://frcat.win)
+* [Main Website](https://frcat.win?ref=docs)
 * [wewwitten-javascwipt](wewwitten-javascwipt)
 * [http-srv](http-srv)
 * [cleanstring.js](cleanstring.js)
