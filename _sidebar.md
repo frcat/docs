@@ -4,3 +4,4 @@
 * [cleanstring.js](cleanstring.js)
 * [hop-on-dscord](hop-on-discord)
 * [ghbed](ghbed)
+* [decrashify](decrashify)
