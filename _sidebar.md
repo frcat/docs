@@ -5,3 +5,4 @@
 * [hop-on-dscord](hop-on-discord)
 * [ghbed](ghbed)
 * [decrashify](decrashify)
+* [search](search)
